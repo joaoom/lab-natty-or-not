@@ -2,7 +2,7 @@
 Artificialmente Natural
 
 ## 📒 Descrição
-Um e-book com a temática Natural vs. Artificial.
+Um e-book com a temática Natural vs. Artificial. Um debate fictício entre duas personagens e as questões de uso da inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
 - Chat-GPT para criar a história.
@@ -14,6 +14,7 @@ A ideia inicial era criar uma história em quadrinhos totalmente por IA, e depoi
 
 ## 🚀 Resultados
 
+E-book - https://drive.google.com/file/d/1ykVVSrVKnZqB11rbQAxr9I1CnaRceIZS/view?usp=drive_link
 
 ## 💭 Reflexão (Opcional)
 Pude perceber que não é possível usar uma IA 100% para todo tipo de tarefa e que muitas vezes vamos ter mais trabalho tentando fazer a IA entender o que queremos que ela faça do que pedir que ela faça metade e nós mesmos completarmos (risos).
